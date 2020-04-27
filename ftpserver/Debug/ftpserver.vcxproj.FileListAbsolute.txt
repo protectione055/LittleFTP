@@ -1,0 +1,2 @@
+E:\CodingProjects\ftp\ftpserver\Debug\ftpserver.exe
+E:\CodingProjects\ftp\ftpserver\Debug\ftpserver.pdb

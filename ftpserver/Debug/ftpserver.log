@@ -1,0 +1,6 @@
+﻿  ftpserver.c
+E:\CodingProjects\ftp\ftpserver\ftpserver.c(34,35): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\CodingProjects\ftp\ftpserver\ftpserver.c(41,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+E:\CodingProjects\ftp\ftpserver\ftpserver.c(42,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\CodingProjects\ftp\ftpserver\ftpserver.c(48,53): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ftpserver.vcxproj -> E:\CodingProjects\ftp\ftpserver\Debug\ftpserver.exe
